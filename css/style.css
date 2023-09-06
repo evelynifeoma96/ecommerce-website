@@ -104,3 +104,11 @@ transition: 0.5s;
     box-shadow: 8px -1px 16px 8px rgba(0,0,0,0.38);
     transition: 0.5s;
 }
+.apple {
+    background-image: url(/images/picture3.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 100%;
+    height: 100vh;
+}
