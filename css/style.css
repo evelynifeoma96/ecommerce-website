@@ -89,8 +89,8 @@
     transition: 0.5s;
 }
 .card:hover {
-    -webkit-box-shadow: 8px -1px 16px 8px rgba(0,0,0,0.38); 
-box-shadow: 8px -1px 16px 8px rgba(0,0,0,0.38);
+    -webkit-box-shadow: 4px #00000061; 
+box-shadow: 4px rgba(0,0,0,0.38);
 transition: 0.5s;
 }
 .row .img2 {
@@ -100,8 +100,8 @@ transition: 0.5s;
 .row .img2:hover {
     background-color: antiquewhite;
     opacity: .7;
-    -webkit-box-shadow: 8px -1px 16px 8px rgba(0,0,0,0.38); 
-    box-shadow: 8px -1px 16px 8px rgba(0,0,0,0.38);
+    -webkit-box-shadow: 2px  rgba(0,0,0,0.38); 
+    box-shadow: 2px  rgba(0,0,0,0.38);
     transition: 0.5s;
 }
 .apple {
