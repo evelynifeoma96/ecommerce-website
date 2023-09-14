@@ -4,10 +4,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+.navbar {
+    width: 100%;
+    position: fixed;
+    background-color: rgb(248, 26, 92);
+}
 .navbar-brand
 {
     font-size: 2rem;
-    color: green;
+    color: white;
     font-family: 'Lobster', cursive;
     font-weight: bolder;
 }
@@ -23,7 +28,7 @@
     font-family: Oswald', sans-serif;
 }
 .nav-link:hover {
-    color: green;
+    color: white;
 }
 .search {
     border-radius: 60px;
@@ -41,7 +46,7 @@
     border: none;
     font-weight: 700;
     color: white;
-    background: rgb(248, 26, 92);
+    background: black;
 }
 .btn1 {
     outline: none;
@@ -158,4 +163,7 @@ a {
 }
 .footer {
     text-align: center;
+}
+i:hover {
+    background-color: rgb(248, 26, 92);
 }
